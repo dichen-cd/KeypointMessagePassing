@@ -33,7 +33,7 @@ python setup.py develop
 
 2. Organize the file tree as below:
 ```
-PoseTrackReID
+KeypointMessagePassing
 └── data
     └── mars
         ├── info/
